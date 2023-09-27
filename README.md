@@ -80,6 +80,9 @@ source activate jupyter_docs
 make clean  
 make html
 ```
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Oleg-Evdokimov&style=flat-square&color=blue" alt = ""/>
+</div>
 
 The docs will be built in `build/html`. They can be viewed by opening `build/html/index.html` or starting an HTTP server and navigating to `0.0.0.0:8000` in your web browser.
 
